@@ -302,7 +302,7 @@
 .unit-phone{font-size:16px;font-weight:700;color:var(--unit-accent);margin:15px 0 20px}
 .unit-actions{display:flex;flex-direction:column;align-items:flex-start;gap:13px;margin-top:auto;width:100%}
 .unit-book{background:var(--unit-accent);width:100%;padding-inline:12px}
-.unit-book svg{fill:currentColor;stroke:none;width:19px;height:19px}
+.unit-book svg{fill:none;stroke:currentColor;width:19px;height:19px}
 .unit-route{color:var(--unit-accent)}
 .unit-note{color:var(--muted);font-size:12px;line-height:1.5}
 @media(hover:hover) and (pointer:fine){.unit-card:hover{transform:translateY(-4px);box-shadow:0 12px 26px #233e4916}}

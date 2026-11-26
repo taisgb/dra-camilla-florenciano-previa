@@ -1,1 +1,1 @@
-# Prévia não oficial da Dra. Camilla Florenciano
+Prévia não oficial. Código derivado do primeiro lote; não é o CSS oficial V13.1. Dados corroborados pelo MedGuias e Doctoralia; confirmação direta CFM pendente. Foto ainda não incorporada. Paleta provisória.
